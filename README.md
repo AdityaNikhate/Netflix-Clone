@@ -9,8 +9,16 @@
 - Browse Page (If the user is authenticated)
   - Header
   - Main Movie
-    - Tailer in Background
+    - Trailer in Background
     - Title & Description
     - MovieSuggestions
       - MovieLists * n
 
+# Screenshot of Application
+- Login Page
+![Login Page](/project-images/img1.png)
+
+- Main Pages
+![Main Page1](/project-images/img2.png)
+
+![Main Page2](/project-images/img3.png)
