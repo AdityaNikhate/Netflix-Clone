@@ -1,6 +1,6 @@
 # Netflix-Clone
  "Netflix-Clone" is a React project for learning, featuring Firebase for authentication and the TMDB API for movie data. Users can explore a Netflix-like experience, making it a concise introduction to React, Firebase, and API integration.
-[View Project](https://netflix-97187.web.app)
+[View Project](https://meek-nasturtium-f233e0.netlify.app/)
 # About Project Structures
 - Login/Sign Up
   - Sign In/ SignUp form
